@@ -1,0 +1,30 @@
+Employee_ID,First_name,Last_name,phoneNumber,Car_Model,Store_ID,,,,
+1011,Joo,Johnson,516-939-2830,2018 Hyundai Accent,141,,,,
+1012,Raj,Benson,86 10 7343 9000,2019 Acura RDX,143,,,,
+1013,Karl,Swatson,86 10 7343 2000,2004 Subaru Ascent,143,,,,
+1014,Benny,Creswell, 81 072-376-1429,2006 BMW X4,146,,,,
+1015,Tanner,Fergueson,03069 990832,2019 Honda Insight,145,,,,
+1016,Danielle,Suarez, 81 072-310-1982,2017 Kia Forte,146,,,,
+1017,Herb,Williams,86 10 7343 6000,2008 Cadillac CTS,143,,,,
+1018,John,Ellison,609-384-2794,2005 Nissan Altima,147,,,,
+1019,Khloe,Kartesan,770-734-8723,2003 Chevrolet Blazer,144,,,,
+1020,Kim,Possible,516-832-3234,2002 Honda Passport,141,,,,
+1021,Stephanie,York,609 -987-4022,1995 Lincoln Nautilus,147,,,,
+1022,Roulan,Jin,03069 990650,1992 Genesis G30,142,,,,
+1023,April,Velez,03069 990210,2016 Jaguar I-Pace,145,,,,
+1024,Tagnina,Jones,03069 990928,2014 Audi Q5,142,,,,
+1025,Prova,Patama, 81 072-274-7293,2019 Porsche Cayenne,146,,,,
+1026,Cheryl,Hathaway,637 -085-8327,2012 Ram 1300,147,,,,
+1027,Nam,Smith,706-483-2839,2010 Nissan Leaf Plus ,144,,,,
+1028,Pavani,Reigns,516-943-2839,2007 Volvo S30,141,,,,
+1029,Julian ,Elming,706-483-5482,2009 Nissan Kicks,144,,,,
+,,,,,,,,,
+,,,,,,,,,
+Store_ID,Street,addressLine1,addressLine2,City,State,Country,ZipCode,Email,PhoneNumber
+141,Hollowing Drive,834,,Massapequa,NY,USA,11758,walmart.MassapNY.org,516-832-3234
+142,Doogledown,439,Gate 64,London,,UK,SW1A 2AA,walmart.internation-London.org,03069 990928
+143,Xijiping Road,43,,Beijing,,CN,102700,walmart.internation-Beijing.org,86 10 7343 4000
+144,Cresdell,7382,,Athens,GA,USA,30609,walmart.AthensGA.org,706-832-7348
+145,Saint21,217,,Cambridge,,UK,CB10BN,walmart.international-Cambridge.org,03069 990983
+146,Xiobi Lane,4-82-2,Section 5,"Sindou, Matsubara, Osaka",,JPY,580-0015,walmart.international-Japan.org, 81 072-376-1429
+147,Tipping Lane,43,,Ewing,NJ,USA,8560,walmart.EwingNJ.org,609 -085-8327

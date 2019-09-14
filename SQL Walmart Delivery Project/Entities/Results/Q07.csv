@@ -1,0 +1,49 @@
+item_name,price,category_name
+"Green Apple",4.23,Fruits
+"Red Apple",2.85,Fruits
+Tomato,1.29,Fruits
+Pomegranite,4.82,Fruits
+Spinach,3.28,Vegetables
+Papaya,4.36,Vegetables
+Cauliflower,4.05,Vegetables
+Garlic,3.57,Vegetables
+Okra,2.85,Vegetables
+Cucumber,4.28,Vegetables
+"Giant Freezer Bars",4.98,"Frozen Foods"
+"Paw Patrol Shapes Macaroni and Cheese",7.72,"Frozen Foods"
+"Hershey's Sundae Dream Caramel Syrup",2.48,"Frozen Foods"
+"Pizza Toppings Real Crumbled Bacon",5.78,"Frozen Foods"
+"Oreo Pie Crust",3.88,"Frozen Foods"
+"Fruity Pebbles",2.14,Cereals
+"Frosted Flakes",2.34,Cereals
+Parsley,1.85,"Dried Herbs"
+Rosemary,1.83,"Dried Herbs"
+Powerade,4.07,Beverages
+Pepsi,2.03,Beverages
+Coke,3.62,Beverages
+"Moutain Dew",2.04,Beverages
+"Fiji Water",2.01,Beverages
+"Disinfecting Wipes",5.39,Cleaners
+"Disinfecting Spray",6.93,Cleaners
+"Glass Cleaner",5.39,Cleaners
+"Hardwood Floor Cleaner ",5.67,Cleaners
+"Liquid Multi-Purpose Cleaner",6.97,Cleaners
+"Adult Toy Cleaner",10.04,Cleaners
+Biscuit,3.67,Cleaners
+"Clean Day Multi-Surface Cleaner",3.88,Cleaners
+"Paper Towels",3.48,"Paper Goods"
+"Paper Plates",6.42,"Paper Goods"
+"Toilet Paper",5.22,"Paper Goods"
+"Toilet Paper",6.23,"Paper Goods"
+"All Purpose Cleaner",4.92,Snacks
+"Crème Filled Wafers Chocolate",4.98,Snacks
+"Scooby-Doo Graham Cracker Sticks",2.48,Snacks
+"Handi Snacks Cheese Bread Stick W/ Dip",5.78,Snacks
+"Town House Pita Mediterranean Herb Crackers",5.46,Snacks
+"Mini Chips Ahoy!, Oreo & Nutter Butter Mix",6.98,Snacks
+"Chex Mix",4.98,Snacks
+"Milano Dark Chocolate Cookies",4.48,Snacks
+"Pure Vanilla Extract",2.10,Spices
+"Seasoned Salt",1.57,Spices
+"Kosher Salt",2.37,Spices
+"Garlic Powder",1.93,Spices

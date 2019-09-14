@@ -1,0 +1,12 @@
+Customer_ID,Last_name,First_name,Street,addressLine_1,addressLine_2,City,State,Country,ZipCode,Email,Phone_number,Confirmation_Code,Payment_Method
+1001,Velazquez,Joanna,Cedar Street,117,,Athens,GA,USA,30609,joannaj@yahoo.com,706-734-7534,JSDFK-8434,Debit
+1002,Alford,Douglas,Reederville,253,,London,,UK,SW1A 2AA,doggyfresh@yahoo.com,03069 990216,KJSDJ-3823,Debit
+1003,Murray,Clayton,Jumpman Drive,234,,Massapequa ,NY,USA,11758,clayTonMore_E@gmail.com,516-527-7532,SOFND-9382,Cash
+1004,Sanchez,Rico,Savage Boulevard,583,,Athens,GA,USA,30609,YRS32@outlook.com,706-549-8349,IRSMG-4383,CreditCard
+1005,Osbourne,Rachel,Iso Drive,943,Room 582,South Croydon,,UK,CR2 6XH,Born2fly3859@gmail.uk.com,03069 990842,GIDKE-3829,Cash
+1006,Lynn,Andrew,Swerve Lane,4-65-8,,"Shindou, Matsubara, Osaka",,JPY,580-0015,Swervefrommjump843@yahoo.com, 81 072-333-1299,MBODN-5424,CreditCard
+1007,George,Paula,Gorgy Avenue,87,,Ewing,NJ,USA,8560,GirlygirlRockstar482@gmail.com,609 -384-3457,KFOWQ-3521,Cash
+1008,Yin,Joseph,Jingyuan Street,12,Apt 482,Beijing,,CN,101300,YinwithYang@hotmail.com,86 10 6781 8000,OTJSN-8274,Debit
+1009,Woo,Luke,Rickleberry Road,17,,Cambridge,,UK,CB10BN,CremeFresh@gmail.com,03069 990938,VJKDF-9316,CreditCard
+1010,Thomas,Paris,Zone 6 Avenue,21,"Gate 3, Apt 3J",Lichfield,,UK,WS13 6YY,ChoppaAndGraves434$@gmail.com,03069 990620,HTISK-60284,Debit
+1011,Powell,Samantha,Jiuxianqiao Lu,23,,Beijing,,CN,102400,VersacethechoppaIland@outlook.com,86 10 7382 9000,YSDND-24935,Cash

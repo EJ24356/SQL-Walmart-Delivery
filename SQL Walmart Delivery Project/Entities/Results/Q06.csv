@@ -1,0 +1,83 @@
+item_name,price,category_name
+Green Apple,4.23,Fruits
+Red Apple,2.85,Fruits
+Pineapple,6.31,Fruits
+Banana,5.96,Fruits
+Tomato,1.29,Fruits
+Pomegranite,4.82,Fruits
+Spinach,3.28,Vegetables
+Papaya,4.36,Vegetables
+Cauliflower,4.05,Vegetables
+Celery,6.28,Vegetables
+Broccoli,5.63,Vegetables
+Asparagus,5.19,Vegetables
+Garlic,3.57,Vegetables
+Okra,2.85,Vegetables
+Cucumber,4.28,Vegetables
+Ground Beef,6.09,Meat
+Duck,4.92,Meat
+Eggs,2.94,Meat
+Lamb,5.58,Meat
+Turkey,2.84,Meat
+Pork,5.72,Meat
+Goose,3.26,Meat
+Ice Cream,3.72,Dairy
+Sour Cream,2.95,Dairy
+Margarine,1.24,Dairy
+Yogurt,1.58,Dairy
+Milk,1.36,Dairy
+Custard,3.27,Dairy
+Shredded Cheddar Jack Cheese,6.48,Dairy
+Carp,3.28,Seafood
+Catfish,2.83,Seafood
+Tilapia,3.82,Seafood
+Flounder,6.45,Seafood
+Trout,2.14,Seafood
+Tuna,5.73,Seafood
+Alaskan pollock,4.33,Seafood
+Giant Freezer Bars,4.98,Frozen Foods
+Hershey's Sundae Dream Caramel Syrup,2.48,Frozen Foods
+Pizza Toppings Real Crumbled Bacon,5.78,Frozen Foods
+Oreo Pie Crust,3.88,Frozen Foods
+Coco Puffs,4.28,Cereals
+Captain Crunch,3.77,Cereals
+Fruity Pebbles,2.14,Cereals
+Frosted Flakes,2.34,Cereals
+Whole Wheat,1.83,Bread
+English muffin,2.83,Bread
+Pita,1.66,Bread
+Parsley,1.85,Dried Herbs
+Oregano,2.75,Dried Herbs
+Basil,4.56,Dried Herbs
+Rosemary,1.83,Dried Herbs
+Powerade,4.07,Beverages
+Pepsi,2.03,Beverages
+Coke,3.62,Beverages
+Medium Dark Coffee,5.97,Beverages
+Moutain Dew,2.04,Beverages
+Fiji Water,2.01,Beverages
+Disinfecting Wipes,5.39,Cleaners
+Glass Cleaner,5.39,Cleaners
+Hardwood Floor Cleaner ,5.67,Cleaners
+Biscuit,3.67,Cleaners
+Clean Day Multi-Surface Cleaner,3.88,Cleaners
+Paper Towels,3.48,Paper Goods
+Paper Plates,6.42,Paper Goods
+Toilet Paper,5.22,Paper Goods
+Toilet Paper,6.23,Paper Goods
+Hand Cleaner,5.57,Personal Care
+Mega Moist Conditioner,4.94,Personal Care
+All Purpose Cleaner,4.92,Snacks
+Crème Filled Wafers Chocolate,4.98,Snacks
+Scooby-Doo Graham Cracker Sticks,2.48,Snacks
+Handi Snacks Cheese Bread Stick W/ Dip,5.78,Snacks
+Town House Pita Mediterranean Herb Crackers,5.46,Snacks
+Chex Mix,4.98,Snacks
+Milano Dark Chocolate Cookies,4.48,Snacks
+Garlic Basil Noodles,6.36,Pasta
+Deluxe White Cheddar Mac and Cheese Dinner,5.52,Pasta
+Spaghetti Pasta,3.88,Pasta
+Pure Vanilla Extract,2.1,Spices
+Seasoned Salt,1.57,Spices
+Kosher Salt,2.37,Spices
+Garlic Powder,1.93,Spices
